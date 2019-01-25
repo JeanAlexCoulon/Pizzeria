@@ -1,2 +1,3 @@
 Test file for checking if commit is working
 This is the second test
+This is the third test
